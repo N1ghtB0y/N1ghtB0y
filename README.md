@@ -1,15 +1,9 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergey Warkoff
 
----
 
-### 👨‍💻 Обо мне:
+## 👨‍💻 About me:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
----
+My name is Sergey Warkoff, and I am a web developer. I have always had a passion for marketing and everything related to creating and promoting websites. That's why I started learning web development as a hobby. I am convinced that web development is my calling. I want to grow in this field and create high-quality, in-demand products. However, I realized that just treating it as a hobby wouldn't lead me anywhere. Therefore, I decided that it's time to move forward and reach new heights in what I truly enjoy.
 
 ### 🤝 Социальные сети:
 
