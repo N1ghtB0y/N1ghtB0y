@@ -14,8 +14,9 @@ My name is Sergey Warkoff, and I am a web developer. I have always had a passion
     <a href="https://t.me/WarkOFF" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+    <a href="https://instagram.com/just_so_0?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
+      <img src="![image](https://github.com/N1ghtB0y/N1ghtB0y/assets/151892954/9b40ffb8-89e3-43fd-ba1f-2db914b4b480)
+" width="40" height="40" alt="Youtube"/>
     </a>
     <a href="https://vk.com/warkof" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
