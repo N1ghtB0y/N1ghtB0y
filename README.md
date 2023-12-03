@@ -15,7 +15,7 @@ My name is Sergey Warkoff, and I am a web developer. I have always had a passion
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://instagram.com/just_so_0?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
-      <img src="instagram.png" width="40" height="40" alt="Instagram"/>
+      <img src="assets/icons/instagram.png" width="40" height="40" alt="Instagram"/>
     </a>
     <a href="https://vk.com/warkof" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
