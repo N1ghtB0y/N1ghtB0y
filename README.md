@@ -5,10 +5,10 @@
 
 My name is Sergey Warkoff, and I am a web developer. I have always had a passion for marketing and everything related to creating and promoting websites. That's why I started learning web development as a hobby. I am convinced that web development is my calling. I want to grow in this field and create high-quality, in-demand products. However, I realized that just treating it as a hobby wouldn't lead me anywhere. Therefore, I decided that it's time to move forward and reach new heights in what I truly enjoy.
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
+    <a href="https://www.linkedin.com/in/siarhei-warkoff-0950a5294/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/tehnomaniak07" target="_blank">
