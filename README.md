@@ -1,9 +1,12 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergey Warkoff
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ## 👨‍💻 About me:
 
---
+---
 My name is Sergey Warkoff, and I am a web developer. I have always had a passion for marketing and everything related to creating and promoting websites. That's why I started learning web development as a hobby. I am convinced that web development is my calling. I want to grow in this field and create high-quality, in-demand products. However, I realized that just treating it as a hobby wouldn't lead me anywhere. Therefore, I decided that it's time to move forward and reach new heights in what I truly enjoy.
 
 ### 🤝 Social media:
