@@ -28,7 +28,7 @@ My name is Sergey Warkoff, and I am a web developer. I have always had a passion
 
 ---
 
-### 💻 Technoglogies:
+### 💻 Languages:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -43,7 +43,7 @@ My name is Sergey Warkoff, and I am a web developer. I have always had a passion
 
 ---
 
-### 🛠 Instruments:
+### 🛠 Tools:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
